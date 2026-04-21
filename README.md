@@ -132,7 +132,7 @@
 <body>
 
     <div class="main-wrapper">
-        <img src="BillWilson.jpg"<img width="1240" height="1748" alt="BillWilson" src="https://github.com/user-attachments/assets/f3440c66-17a0-4ba9-a786-8e1eb2ccbffd" /> alt="Invitation Cover" class="invite-img">
+        <img src="BillWilson.jpg"<alt="BillWilson" src="https://github.com/user-attachments/assets/f3440c66-17a0-4ba9-a786-8e1eb2ccbffd" /> alt="Invitation Cover" class="invite-img">
 
         <div class="section">
             <h2 style="font-style: italic;">Wedding Invitation</h2>
