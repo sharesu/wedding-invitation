@@ -132,7 +132,7 @@
 <body>
 
     <div class="main-wrapper">
-        <img src="BillWilson.jpg" alt="Invitation Cover" class="invite-img">
+        <img src="BillWilson.jpg"<img width="1240" height="1748" alt="BillWilson" src="https://github.com/user-attachments/assets/f3440c66-17a0-4ba9-a786-8e1eb2ccbffd" /> alt="Invitation Cover" class="invite-img">
 
         <div class="section">
             <h2 style="font-style: italic;">Wedding Invitation</h2>
@@ -192,15 +192,3 @@
 
 </body>
 </html>Uploading index.html…]()
-<img width="1240" height="1748" alt="BillWilson" src="https://github.com/user-attachments/assets/f3440c66-17a0-4ba9-a786-8e1eb2ccbffd" />
-<img width="1240" height="1748" alt="BillWilson1" src="https://github.com/user-attachments/assets/f4261c25-0d3c-47b0-80e0-a686e6235db5" />
-<img width="1036" height="1582" alt="yenni1" src="https://github.com/user-attachments/assets/f6c79552-6242-4c80-be4c-ce7bc3ff2edf" />
-<img width="1108" height="1477" alt="yenni2" src="https://github.com/user-attachments/assets/6a799d29-692d-4972-965e-197d45e59b1d" />
-<img width="720" height="854" alt="yenni3" src="https://github.com/user-attachments/assets/7c1955c0-c55a-4abc-9052-d1692cfb682b" />
-<img width="1108" height="1477" alt="yenni4" src="https://github.com/user-attachments/assets/b08a14ae-9f1a-4f0b-9a52-f09ac45a76af" />
-<img width="1424" height="1150" alt="yenni5" src="https://github.com/user-attachments/assets/1c3a51b9-3dfd-445b-92aa-7a696587f1e1" />
-<img width="1567" height="1045" alt="yenni6" src="https://github.com/user-attachments/assets/2491b417-72e2-4f3c-bf23-6d73f4d69e49" />
-<img width="1352" height="1210" alt="yenni7" src="https://github.com/user-attachments/assets/deca2394-487e-4b9f-ad2d-d4b3fd742ab3" />
-<img width="1108" height="1477" alt="yenni8" src="https://github.com/user-attachments/assets/d9347872-db9d-41c8-8286-3040c1042fd0" />
-<img width="769" height="1024" alt="yenni9" src="https://github.com/user-attachments/assets/61d6a21f-9675-4547-816c-d41158d6e1de" />
-<img width="508" height="677" alt="yenni10" src="https://github.com/user-attachments/assets/fbed8f8d-639b-463b-b3c1-a0f66ab7cde8" />
