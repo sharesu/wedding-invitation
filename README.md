@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/26924552/index.html)[Uploa<!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/26925019/index.html)[<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -132,7 +132,7 @@
 <body>
 
     <div class="main-wrapper">
-        <img src="Bill Wilson.jpg" alt="Invitation Cover" class="invite-img">
+        <img src="BillWilson.jpg" alt="Invitation Cover" class="invite-img">
 
         <div class="section">
             <h2 style="font-style: italic;">Wedding Invitation</h2>
@@ -140,7 +140,7 @@
             <p style="font-family: 'Playfair Display', serif; font-size: 1.6em; color: #d18ba3;">Yenni Wu & Bill Wilson</p>
         </div>
 
-        <img src="Bill Wilson (1).jpg" alt="Wedding Details" class="invite-img">
+        <img src="BillWilson1.jpg" alt="Wedding Details" class="invite-img">
 
         <div class="section">
             <h2>Location & Directions</h2>
@@ -155,34 +155,34 @@
 
         <div class="film-container">
             <div class="film-track">
-                <div class="film-frame"><img src="S__28753935_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753936_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753939_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753942_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753943_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753927_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753928_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753933_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753925_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753924_0.jpg"></div>
+                <div class="film-frame"><img src="yenni1.jpg"></div>
+                <div class="film-frame"><img src="yenni2.jpg"></div>
+                <div class="film-frame"><img src="yenni3.jpg"></div>
+                <div class="film-frame"><img src="yenni4.jpg"></div>
+                <div class="film-frame"><img src="yenni5.jpg"></div>
+                <div class="film-frame"><img src="yenni6.jpg"></div>
+                <div class="film-frame"><img src="yenni7.jpg"></div>
+                <div class="film-frame"><img src="yenni8.jpg"></div>
+                <div class="film-frame"><img src="yenni9.jpg"></div>
+                <div class="film-frame"><img src="yenni10.jpg"></div>
                 
-                <div class="film-frame"><img src="S__28753935_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753936_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753939_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753942_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753943_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753927_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753928_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753933_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753925_0.jpg"></div>
-                <div class="film-frame"><img src="S__28753924_0.jpg"></div>
+                <div class="film-frame"><img src="yenni1.jpg"></div>
+                <div class="film-frame"><img src="yenni2.jpg"></div>
+                <div class="film-frame"><img src="yenni3.jpg"></div>
+                <div class="film-frame"><img src="yenni4.jpg"></div>
+                <div class="film-frame"><img src="yenni5.jpg"></div>
+                <div class="film-frame"><img src="yenni6.jpg"></div>
+                <div class="film-frame"><img src="yenni7.jpg"></div>
+                <div class="film-frame"><img src="yenni8.jpg"></div>
+                <div class="film-frame"><img src="yenni9.jpg"></div>
+                <div class="film-frame"><img src="yenni10.jpg"></div>
             </div>
         </div>
 
         <div class="rsvp-section">
             <h2>RSVP</h2>
             <p>Please kindly respond by clicking the button below.<br>We look forward to seeing you!</p>
-            <a href="https://forms.gle/您的表單連結" target="_blank" class="rsvp-btn">Confirm Attendance</a>
+            <a href="https://forms.gle/vtsvyGpvdMXDehzh9" target="_blank" class="rsvp-btn">Confirm Attendance</a>
         </div>
 
         <div class="footer">
@@ -191,16 +191,16 @@
     </div>
 
 </body>
-</html>ding index.html…]()
-<img width="1240" height="1748" alt="Bill Wilson" src="https://github.com/user-attachments/assets/ad89fb96-f0b7-454e-aab1-bf9c20856bc8" />
-<img width="1240" height="1748" alt="Bill Wilson (1)" src="https://github.com/user-attachments/assets/5c5c9260-a5fd-4445-83b2-e51998417a2b" />
-<img width="1036" height="1582" alt="S__28753935_0" src="https://github.com/user-attachments/assets/52ba3240-6f65-438c-a730-7f4fabfd139a" />
-<img width="1108" height="1477" alt="S__28753936_0" src="https://github.com/user-attachments/assets/1c49451c-3591-4947-a547-36ac6101469e" />
-<img width="720" height="854" alt="S__28753939_0" src="https://github.com/user-attachments/assets/ab65d090-6fda-4769-91b3-05f86986c40d" />
-<img width="1108" height="1477" alt="S__28753942_0" src="https://github.com/user-attachments/assets/c3fd9583-6913-48ac-9b0d-0a5890ba596f" />
-<img width="1424" height="1150" alt="S__28753943_0" src="https://github.com/user-attachments/assets/2289e254-dbda-47a0-910e-c8fb9a7f5cd8" />
-<img width="1567" height="1045" alt="S__28753927_0" src="https://github.com/user-attachments/assets/9e773222-82f5-4a04-8c83-9ac1ef61c97b" />
-<img width="1352" height="1210" alt="S__28753928_0" src="https://github.com/user-attachments/assets/f514983f-b981-43a6-996f-7fad10c370d7" />
-<img width="1108" height="1477" alt="S__28753933_0" src="https://github.com/user-attachments/assets/7988085c-dde8-4dcd-8d4a-0806aec53976" />
-<img width="769" height="1024" alt="S__28753924_0" src="https://github.com/user-attachments/assets/c9794b0b-c521-4077-af08-ae713bccd97b" />
-<img width="508" height="677" alt="S__28753925_0" src="https://github.com/user-attachments/assets/fd041c1c-a0ca-49b2-bb8d-068baecea802" />
+</html>Uploading index.html…]()
+<img width="1240" height="1748" alt="BillWilson" src="https://github.com/user-attachments/assets/f3440c66-17a0-4ba9-a786-8e1eb2ccbffd" />
+<img width="1240" height="1748" alt="BillWilson1" src="https://github.com/user-attachments/assets/f4261c25-0d3c-47b0-80e0-a686e6235db5" />
+<img width="1036" height="1582" alt="yenni1" src="https://github.com/user-attachments/assets/f6c79552-6242-4c80-be4c-ce7bc3ff2edf" />
+<img width="1108" height="1477" alt="yenni2" src="https://github.com/user-attachments/assets/6a799d29-692d-4972-965e-197d45e59b1d" />
+<img width="720" height="854" alt="yenni3" src="https://github.com/user-attachments/assets/7c1955c0-c55a-4abc-9052-d1692cfb682b" />
+<img width="1108" height="1477" alt="yenni4" src="https://github.com/user-attachments/assets/b08a14ae-9f1a-4f0b-9a52-f09ac45a76af" />
+<img width="1424" height="1150" alt="yenni5" src="https://github.com/user-attachments/assets/1c3a51b9-3dfd-445b-92aa-7a696587f1e1" />
+<img width="1567" height="1045" alt="yenni6" src="https://github.com/user-attachments/assets/2491b417-72e2-4f3c-bf23-6d73f4d69e49" />
+<img width="1352" height="1210" alt="yenni7" src="https://github.com/user-attachments/assets/deca2394-487e-4b9f-ad2d-d4b3fd742ab3" />
+<img width="1108" height="1477" alt="yenni8" src="https://github.com/user-attachments/assets/d9347872-db9d-41c8-8286-3040c1042fd0" />
+<img width="769" height="1024" alt="yenni9" src="https://github.com/user-attachments/assets/61d6a21f-9675-4547-816c-d41158d6e1de" />
+<img width="508" height="677" alt="yenni10" src="https://github.com/user-attachments/assets/fbed8f8d-639b-463b-b3c1-a0f66ab7cde8" />
