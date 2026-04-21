@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/26925019/index.html)[<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -132,7 +132,8 @@
 <body>
 
     <div class="main-wrapper">
-        <img src=""https://github.com/user-attachments/assets/351b5492-6972-464e-8c2c-da4f69a6b216"" alt="Invitation Cover" class="invite-img">
+        <img src="BillWilson.jpg" alt="Invitation Cover" class="invite-img">
+
         <div class="section">
             <h2 style="font-style: italic;">Wedding Invitation</h2>
             <p>We joyfully invite you to celebrate the marriage of</p>
@@ -190,5 +191,4 @@
     </div>
 
 </body>
-</html>Uploading index.html…]()
-<img width="1240" height="1748" alt="BillWilson" src="https://github.com/user-attachments/assets/351b5492-6972-464e-8c2c-da4f69a6b216" />
+</html>
