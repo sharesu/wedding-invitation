@@ -5,13 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <title>Yenni & Bill Wedding Invitation</title>
-
     <meta property="og:title" content="Our Wedding Day | Yenni & Bill">
     <meta property="og:description" content="We are getting married! Click to view our invitation and RSVP.">
     <meta property="og:image" content="BillWilson.jpg">
     <meta property="og:type" content="website">
 
-    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Italianno&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
 
     <style>
         body {
@@ -44,18 +43,20 @@
         }
 
         h2 {
-            font-family: 'Lato', serif;
+            font-family: 'Playfair Display', serif;
             color: #d18ba3;
             font-size: 1.8em;
             margin-bottom: 15px;
             text-transform: uppercase;
         }
 
+        /* 👑 姓名專用：切換為 Italianno 👑 */
         .couple-names {
-            font-family: 'Lato', cursive;
-            font-size: 2.8em;
+            font-family: 'Italianno', cursive;
+            font-size: 4em; /* Italianno 字體較纖細，建議稍微放大 */
             color: #d18ba3;
-            margin: 10px 0;
+            margin: 5px 0;
+            font-weight: 400;
         }
 
         .btn {
@@ -155,12 +156,12 @@
         <div class="section">
             <h2>Location & Directions</h2>
             <p><strong>Ceremony (2:00 PM)</strong><br>New Life Tondo</p>
-            <a href="https://maps.app.goo.gl/YourMapLink1" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.google.com/?q=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
             <p><strong>Reception (6:00 PM)</strong><br>The Heritage Hotel Manila</p>
-            <a href="https://maps.app.goo.gl/YourMapLink2" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.google.com/?q=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
         <div class="film-container">
