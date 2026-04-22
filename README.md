@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Wedding Invitation | Yenni & Bill</title>
-    <meta property="og:title" content="Wedding Invitation | Yenni & Bill">
-    <meta property="og:description" content="We joyfully invite you to celebrate our marriage.">
+    <title>Yenni & Bill Wedding Invitation</title>
+
+    <meta property="og:title" content="Our Wedding Day | Yenni & Bill">
+    <meta property="og:description" content="We are getting married! Click to view our invitation and RSVP.">
     <meta property="og:image" content="BillWilson.jpg">
+    <meta property="og:type" content="website">
 
     <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
 
@@ -49,7 +51,6 @@
             text-transform: uppercase;
         }
 
-        /* 姓名手寫體 */
         .couple-names {
             font-family: 'Great Vibes', cursive;
             font-size: 2.8em;
@@ -76,7 +77,6 @@
             color: #ffffff;
         }
 
-        /* 🎬 膠卷動畫設定 🎬 */
         .film-container {
             width: 100%;
             background: #1a1a1a;
@@ -155,12 +155,12 @@
         <div class="section">
             <h2>Location & Directions</h2>
             <p><strong>Ceremony (2:00 PM)</strong><br>New Life Tondo</p>
-            <a href="https://maps.google.com/?q=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.app.goo.gl/YourMapLink1" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
             <p><strong>Reception (6:00 PM)</strong><br>The Heritage Hotel Manila</p>
-            <a href="https://maps.google.com/?q=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.app.goo.gl/YourMapLink2" target="_blank" class="btn">Open Maps</a>
         </div>
 
         <div class="film-container">
