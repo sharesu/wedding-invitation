@@ -10,7 +10,7 @@
     <meta property="og:image" content="BillWilson.jpg">
     <meta property="og:type" content="website">
 
-    <link href="https://fonts.googleapis.com/css2?family=Italianno&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Italianno&family=Crimson+Pro:wght@400;700&family=Lato:wght@300;400&display=swap" rel="stylesheet">
 
     <style>
         body {
@@ -42,21 +42,26 @@
             padding: 40px 20px;
         }
 
+        /* 👑 標題專用：更換為 Kelvinch 風格 👑 */
         h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Crimson Pro', serif; /* Kelvinch 的優質替代雲端字體 */
             color: #d18ba3;
-            font-size: 1.8em;
+            font-size: 1.9em;
             margin-bottom: 15px;
             text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 700;
         }
 
-        /* 👑 姓名專用：切換為 Italianno 👑 */
+        /* 姓名專用：Italianno */
         .couple-names {
             font-family: 'Italianno', cursive;
-            font-size: 4em; /* Italianno 字體較纖細，建議稍微放大 */
+            font-size: 3.2em;
             color: #d18ba3;
             margin: 5px 0;
             font-weight: 400;
+            line-height: 1.2;
+            word-wrap: break-word;
         }
 
         .btn {
@@ -134,7 +139,7 @@
 
         .footer {
             padding: 40px 20px;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Crimson Pro', serif;
             font-style: italic;
             color: #d18ba3;
         }
@@ -156,12 +161,12 @@
         <div class="section">
             <h2>Location & Directions</h2>
             <p><strong>Ceremony (2:00 PM)</strong><br>New Life Tondo</p>
-            <a href="https://maps.google.com/?q=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.google.com" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
             <p><strong>Reception (6:00 PM)</strong><br>The Heritage Hotel Manila</p>
-            <a href="https://maps.google.com/?q=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.google.com" target="_blank" class="btn">Open Maps</a>
         </div>
 
         <div class="film-container">
