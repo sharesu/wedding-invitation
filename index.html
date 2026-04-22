@@ -3,11 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>Wedding Invitation | Yenni & Bill</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400&display=swap');
+    <meta property="og:title" content="Wedding Invitation | Yenni & Bill">
+    <meta property="og:description" content="We joyfully invite you to celebrate our marriage.">
+    <meta property="og:image" content="BillWilson.jpg">
 
-        /* 基礎設定 */
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+
+    <style>
         body {
             font-family: 'Lato', sans-serif;
             background-color: #fff5f7;
@@ -18,14 +22,13 @@
             color: #4a4a4a;
         }
 
-        /* 網頁主容器 */
         .main-wrapper {
             max-width: 500px;
             width: 100%;
             background: #ffffff;
             box-shadow: 0 10px 30px rgba(0,0,0,0.05);
             text-align: center;
-            overflow-x: hidden; /* 防止膠卷超出邊界 */
+            overflow-x: hidden;
         }
 
         img.invite-img {
@@ -43,9 +46,17 @@
             color: #d18ba3;
             font-size: 1.8em;
             margin-bottom: 15px;
+            text-transform: uppercase;
         }
 
-        /* 按鈕樣式 */
+        /* 姓名手寫體 */
+        .couple-names {
+            font-family: 'Great Vibes', cursive;
+            font-size: 2.8em;
+            color: #d18ba3;
+            margin: 10px 0;
+        }
+
         .btn {
             display: inline-block;
             background-color: #ffffff;
@@ -65,10 +76,10 @@
             color: #ffffff;
         }
 
-        /* 🎬 膠卷動畫核心設定 🎬 */
+        /* 🎬 膠卷動畫設定 🎬 */
         .film-container {
             width: 100%;
-            background: #1a1a1a; /* 膠卷底色 */
+            background: #1a1a1a;
             padding: 20px 0;
             position: relative;
             margin: 20px 0;
@@ -76,19 +87,19 @@
 
         .film-track {
             display: flex;
-            width: max-content; /* 關鍵：讓容器根據內容無限延伸 */
-            animation: slideLeft 40s linear infinite; /* 滾動動畫 */
+            width: max-content;
+            animation: slideLeft 40s linear infinite;
         }
 
         @keyframes slideLeft {
             0% { transform: translateX(0); }
-            100% { transform: translateX(-50%); } /* 滾動到總長度一半實現無縫循環 */
+            100% { transform: translateX(-50%); }
         }
 
         .film-frame {
             flex: 0 0 auto;
-            width: 260px; /* 每張照片寬度 */
-            height: 360px; /* 每張照片高度 */
+            width: 260px;
+            height: 360px;
             margin: 0 10px;
             border-radius: 5px;
             overflow: hidden;
@@ -101,7 +112,6 @@
             object-fit: cover;
         }
 
-        /* RSVP 區塊 */
         .rsvp-section {
             background-color: #fff9fa;
             padding: 60px 20px;
@@ -135,9 +145,9 @@
         <img src="BillWilson.jpg" alt="Invitation Cover" class="invite-img">
 
         <div class="section">
-            <h2 style="font-style: italic;">Wedding Invitation</h2>
+            <h2 style="font-style: italic; text-transform: none;">Wedding Invitation</h2>
             <p>We joyfully invite you to celebrate the marriage of</p>
-            <p style="font-family: 'Playfair Display', serif; font-size: 1.6em; color: #d18ba3;">Yenni Wu & Bill Wilson</p>
+            <div class="couple-names">Yenni Wu & Bill Wilson</div>
         </div>
 
         <img src="BillWilson1.jpg" alt="Wedding Details" class="invite-img">
@@ -145,12 +155,12 @@
         <div class="section">
             <h2>Location & Directions</h2>
             <p><strong>Ceremony (2:00 PM)</strong><br>New Life Tondo</p>
-            <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.google.com/?q=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
             <p><strong>Reception (6:00 PM)</strong><br>The Heritage Hotel Manila</p>
-            <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
+            <a href="https://maps.google.com/?q=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
         <div class="film-container">
