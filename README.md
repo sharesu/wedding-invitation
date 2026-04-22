@@ -53,18 +53,6 @@
             font-style: normal;
         }
 
-        /* 👑 姓名專用：Italianno + 字距微調 👑 */
-        .couple-names {
-            font-family: 'Italianno', cursive;
-            font-size: 3.2em;
-            color: #d18ba3;
-            margin: 5px 0;
-            font-weight: 400;
-            line-height: 1.2;
-            word-wrap: break-word;
-            letter-spacing: 2px; /* 增加字與字之間的距離，防止黏在一起 */
-        }
-
         .btn {
             display: inline-block;
             background-color: #ffffff;
@@ -151,21 +139,16 @@
     <div class="main-wrapper">
         <img src="BillWilson.jpg" alt="Invitation Cover" class="invite-img">
 
-        <div class="section">
-            <p>We joyfully invite you to celebrate the marriage of</p>
-            <div class="couple-names">Yenni Wu & Bill Wilson</div>
-        </div>
-
         <img src="BillWilson1.jpg" alt="Wedding Details" class="invite-img">
 
         <div class="section">
             <h2>Location & Directions</h2>
-            <p><strong>Celebration  2 PM </strong><br>New Life Tondo</p>
+            <p><strong>Celebration &nbsp; 2 PM</strong><br>New Life Tondo</p>
             <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
-            <p><strong>Reception  6 PM </strong><br>The Heritage Hotel Manila</p>
+            <p><strong>Reception &nbsp; 6 PM</strong><br>The Heritage Hotel Manila</p>
             <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
@@ -190,21 +173,4 @@
                 <div class="film-frame"><img src="yenni5.jpg"></div>
                 <div class="film-frame"><img src="yenni6.jpg"></div>
                 <div class="film-frame"><img src="yenni12.jpg"></div>
-                <div class="film-frame"><img src="yenni7.jpg"></div>
-                <div class="film-frame"><img src="yenni8.jpg"></div>
-                <div class="film-frame"><img src="yenni9.jpg"></div>
-                <div class="film-frame"><img src="yenni10.jpg"></div>
-            </div>
-        </div>
-
-        <div class="rsvp-section">
-            <a href="https://forms.gle/vtsvyGpvdMXDehzh9" target="_blank" class="rsvp-btn">RSVP</a>
-        </div>
-
-        <div class="footer">
-            <p>With Love, Yenni & Bill</p>
-        </div>
-    </div>
-
-</body>
-</html>
+                <div class="film-frame"><img src="yenni7.jpg
