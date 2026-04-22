@@ -44,7 +44,7 @@
         }
 
         h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Lato', serif;
             color: #d18ba3;
             font-size: 1.8em;
             margin-bottom: 15px;
@@ -52,7 +52,7 @@
         }
 
         .couple-names {
-            font-family: 'Great Vibes', cursive;
+            font-family: 'Playfair Display', cursive;
             font-size: 2.8em;
             color: #d18ba3;
             margin: 10px 0;
