@@ -72,12 +72,15 @@
             color: #ffffff;
         }
 
+        /* 🎬 膠卷輪播：背景已改為白色 🎬 */
         .film-container {
             width: 100%;
-            background: #1a1a1a;
-            padding: 20px 0;
+            background: #ffffff; /* 白色背景 */
+            padding: 30px 0;
             position: relative;
             margin: 20px 0;
+            border-top: 1px solid #fce4ec;
+            border-bottom: 1px solid #fce4ec;
         }
 
         .film-track {
@@ -96,9 +99,11 @@
             width: 260px;
             height: 360px;
             margin: 0 10px;
-            border-radius: 5px;
+            border-radius: 8px;
             overflow: hidden;
-            background: #000;
+            background: #ffffff;
+            /* 加入輕微陰影讓白色框架在白色背景上有層次感 */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08); 
         }
 
         .film-frame img {
@@ -113,6 +118,13 @@
             border-top: 1px solid #fce4ec;
         }
 
+        .rsvp-text {
+            margin-bottom: 25px;
+            line-height: 1.6;
+            color: #666;
+            font-size: 1.05em;
+        }
+
         .rsvp-btn {
             background-color: #d18ba3;
             color: #ffffff;
@@ -124,13 +136,15 @@
             display: inline-block;
             box-shadow: 0 5px 15px rgba(209,139,163,0.3);
             letter-spacing: 2px;
+            transition: 0.3s;
         }
 
         .footer {
-            padding: 40px 20px;
-            font-family: 'Crimson Pro', serif;
-            font-style: normal;
+            padding: 50px 20px;
+            font-family: 'Italianno', cursive;
+            font-size: 2.8em;
             color: #d18ba3;
+            font-weight: 400;
         }
     </style>
 </head>
@@ -142,13 +156,13 @@
         <img src="BillWilson1.jpg" alt="Wedding Details" class="invite-img">
 
         <div class="section">
-            <h2>Directions</h2>
-            <p><strong>Celebration &nbsp; 2 PM</strong><br>New Life Church Tondo</p>
+            <h2>Location & Directions</h2>
+            <p><strong>Celebration   2 PM</strong><br>New Life Tondo</p>
             <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
-            <p><strong>Reception &nbsp; 6 PM</strong><br>The Heritage Hotel Manila (Ballroom)</p>
+            <p><strong>Reception   6 PM</strong><br>The Heritage Hotel Manila</p>
             <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
@@ -181,6 +195,10 @@
         </div>
 
         <div class="rsvp-section">
+            <div class="rsvp-text">
+                Please kindly respond by clicking the button below.<br>
+                We look forward to seeing you!
+            </div>
             <a href="https://forms.gle/vtsvyGpvdMXDehzh9" target="_blank" class="rsvp-btn">RSVP</a>
         </div>
 
