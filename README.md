@@ -52,7 +52,7 @@
         }
 
         .couple-names {
-            font-family: 'Playfair Display', cursive;
+            font-family: 'Great Vibes', cursive;
             font-size: 2.8em;
             color: #d18ba3;
             margin: 10px 0;
