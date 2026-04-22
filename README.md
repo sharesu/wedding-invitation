@@ -142,13 +142,13 @@
         <img src="BillWilson1.jpg" alt="Wedding Details" class="invite-img">
 
         <div class="section">
-            <h2>Location & Directions</h2>
-            <p><strong>Celebration &nbsp; 2 PM</strong><br>New Life Tondo</p>
+            <h2>Directions</h2>
+            <p><strong>Celebration &nbsp; 2 PM</strong><br>New Life Church Tondo</p>
             <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
-            <p><strong>Reception &nbsp; 6 PM</strong><br>The Heritage Hotel Manila</p>
+            <p><strong>Reception &nbsp; 6 PM</strong><br>The Heritage Hotel Manila (Ball Room)</p>
             <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
