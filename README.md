@@ -46,26 +46,45 @@
             font-family: 'Crimson Pro', serif;
             color: #d18ba3;
             font-size: 1.9em;
-            margin-bottom: 15px;
+            margin-bottom: 25px;
             text-transform: uppercase;
             letter-spacing: 1px;
             font-weight: 700;
             font-style: normal;
         }
 
+        .location-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 15px;
+            text-align: center;
+        }
+
+        .location-item {
+            flex: 1;
+            padding: 10px;
+        }
+
+        .location-item p {
+            font-size: 0.9em;
+            margin-bottom: 15px;
+            min-height: 80px; /* 增加高度以容納較長的酒店名稱 */
+            line-height: 1.5;
+        }
+
         .btn {
             display: inline-block;
             background-color: #ffffff;
             color: #d18ba3;
-            padding: 12px 25px;
+            padding: 10px 15px;
             text-decoration: none;
             border-radius: 4px;
-            margin: 10px 5px;
-            font-size: 0.85em;
+            font-size: 0.75em;
             letter-spacing: 1px;
             border: 1px solid #d18ba3;
             text-transform: uppercase;
             transition: 0.3s;
+            width: 80%;
         }
         .btn:hover {
             background-color: #d18ba3;
@@ -124,23 +143,18 @@
             font-size: 1.05em;
         }
 
-        /* 👑 RSVP 按鈕：加大字體 👑 */
         .rsvp-btn {
             background-color: #d18ba3;
             color: #ffffff;
-            padding: 18px 70px; /* 增加內距配合大字體 */
+            padding: 18px 70px;
             border-radius: 50px;
             font-weight: bold;
-            font-size: 1.5em; /* 字體加大 */
+            font-size: 1.5em;
             text-decoration: none;
             display: inline-block;
             box-shadow: 0 5px 15px rgba(209,139,163,0.3);
-            letter-spacing: 3px; /* 增加字母間距更顯大氣 */
+            letter-spacing: 3px;
             transition: 0.3s;
-        }
-        .rsvp-btn:hover {
-            transform: scale(1.05); /* 滑鼠懸停稍微放大 */
-            box-shadow: 0 8px 20px rgba(209,139,163,0.4);
         }
 
         .footer {
@@ -161,13 +175,18 @@
 
         <div class="section">
             <h2>Directions</h2>
-            <p><strong>Celebration   2 PM</strong><br>New Life Church Tondo</p>
-            <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
-            <div style="height: 30px;"></div>
-            
-            <p><strong>Reception   6 PM</strong><br>The Heritage Hotel Manila ( Ballroom )</p>
-            <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
+            <div class="location-container">
+                <div class="location-item">
+                    <p><strong>Celebration   2 PM</strong><br>New Life Church Tondo</p>
+                    <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
+                </div>
+
+                <div class="location-item">
+                    <p><strong>Reception   6 PM</strong><br>The Heritage Hotel Manila ( Ballroom )</p>
+                    <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
+                </div>
+            </div>
         </div>
 
         <div class="film-container">
