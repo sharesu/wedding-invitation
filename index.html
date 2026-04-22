@@ -72,10 +72,10 @@
             color: #ffffff;
         }
 
-        /* 🎬 膠卷輪播：背景已改為白色 🎬 */
+        /* 🎬 膠卷輪播 🎬 */
         .film-container {
             width: 100%;
-            background: #ffffff; /* 白色背景 */
+            background: #ffffff;
             padding: 30px 0;
             position: relative;
             margin: 20px 0;
@@ -102,7 +102,6 @@
             border-radius: 8px;
             overflow: hidden;
             background: #ffffff;
-            /* 加入輕微陰影讓白色框架在白色背景上有層次感 */
             box-shadow: 0 4px 15px rgba(0,0,0,0.08); 
         }
 
@@ -125,18 +124,23 @@
             font-size: 1.05em;
         }
 
+        /* 👑 RSVP 按鈕：加大字體 👑 */
         .rsvp-btn {
             background-color: #d18ba3;
             color: #ffffff;
-            padding: 16px 60px;
-            border-radius: 40px;
+            padding: 18px 70px; /* 增加內距配合大字體 */
+            border-radius: 50px;
             font-weight: bold;
-            font-size: 1.2em;
+            font-size: 1.5em; /* 字體加大 */
             text-decoration: none;
             display: inline-block;
             box-shadow: 0 5px 15px rgba(209,139,163,0.3);
-            letter-spacing: 2px;
+            letter-spacing: 3px; /* 增加字母間距更顯大氣 */
             transition: 0.3s;
+        }
+        .rsvp-btn:hover {
+            transform: scale(1.05); /* 滑鼠懸停稍微放大 */
+            box-shadow: 0 8px 20px rgba(209,139,163,0.4);
         }
 
         .footer {
@@ -156,13 +160,13 @@
         <img src="BillWilson1.jpg" alt="Wedding Details" class="invite-img">
 
         <div class="section">
-            <h2>Location & Directions</h2>
-            <p><strong>Celebration   2 PM</strong><br>New Life Tondo</p>
+            <h2>Directions</h2>
+            <p><strong>Celebration   2 PM</strong><br>New Life Church Tondo</p>
             <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
-            <p><strong>Reception   6 PM</strong><br>The Heritage Hotel Manila</p>
+            <p><strong>Reception   6 PM</strong><br>The Heritage Hotel Manila ( Ballroom )</p>
             <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
@@ -203,7 +207,7 @@
         </div>
 
         <div class="footer">
-            <p>With Love, Yenni & Bill</p>
+            <p>With Love, Yenni &  Bill</p>
         </div>
     </div>
 
