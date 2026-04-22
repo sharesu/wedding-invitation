@@ -42,7 +42,6 @@
             padding: 40px 20px;
         }
 
-        /* 標題專用：Kelvinch 風格 */
         h2 {
             font-family: 'Crimson Pro', serif;
             color: #d18ba3;
@@ -54,7 +53,7 @@
             font-style: normal;
         }
 
-        /* 姓名專用：Italianno */
+        /* 👑 姓名專用：Italianno + 字距微調 👑 */
         .couple-names {
             font-family: 'Italianno', cursive;
             font-size: 3.2em;
@@ -63,6 +62,7 @@
             font-weight: 400;
             line-height: 1.2;
             word-wrap: break-word;
+            letter-spacing: 2px; /* 增加字與字之間的距離，防止黏在一起 */
         }
 
         .btn {
@@ -128,7 +128,7 @@
         .rsvp-btn {
             background-color: #d18ba3;
             color: #ffffff;
-            padding: 16px 60px; /* 稍微增加寬度 */
+            padding: 16px 60px;
             border-radius: 40px;
             font-weight: bold;
             font-size: 1.2em;
@@ -160,12 +160,12 @@
 
         <div class="section">
             <h2>Location & Directions</h2>
-            <p><strong>Celebration 2 PM </strong><br>New Life Tondo</p>
+            <p><strong>Celebration  2 PM </strong><br>New Life Tondo</p>
             <a href="https://www.google.com/maps/search/?api=1&query=New+Life+Tondo" target="_blank" class="btn">Open Maps</a>
             
             <div style="height: 30px;"></div>
             
-            <p><strong>Reception 6 PM </strong><br>The Heritage Hotel Manila</p>
+            <p><strong>Reception  6 PM </strong><br>The Heritage Hotel Manila</p>
             <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
