@@ -148,7 +148,7 @@
             
             <div style="height: 30px;"></div>
             
-            <p><strong>Reception &nbsp; 6 PM</strong><br>The Heritage Hotel Manila (Ball Room)</p>
+            <p><strong>Reception &nbsp; 6 PM</strong><br>The Heritage Hotel Manila (Ballroom)</p>
             <a href="https://www.google.com/maps/search/?api=1&query=The+Heritage+Hotel+Manila" target="_blank" class="btn">Open Maps</a>
         </div>
 
@@ -173,4 +173,21 @@
                 <div class="film-frame"><img src="yenni5.jpg"></div>
                 <div class="film-frame"><img src="yenni6.jpg"></div>
                 <div class="film-frame"><img src="yenni12.jpg"></div>
-                <div class="film-frame"><img src="yenni7.jpg
+                <div class="film-frame"><img src="yenni7.jpg"></div>
+                <div class="film-frame"><img src="yenni8.jpg"></div>
+                <div class="film-frame"><img src="yenni9.jpg"></div>
+                <div class="film-frame"><img src="yenni10.jpg"></div>
+            </div>
+        </div>
+
+        <div class="rsvp-section">
+            <a href="https://forms.gle/vtsvyGpvdMXDehzh9" target="_blank" class="rsvp-btn">RSVP</a>
+        </div>
+
+        <div class="footer">
+            <p>With Love, Yenni & Bill</p>
+        </div>
+    </div>
+
+</body>
+</html>
