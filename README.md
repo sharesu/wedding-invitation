@@ -39,14 +39,14 @@
         }
 
         .section {
-            padding: 10px 20px; /* 已再度縮短上下間隔 (原為 20px) */
+            padding: 10px 20px;
         }
 
         h2 {
             font-family: 'Crimson Pro', serif;
             color: #d18ba3;
             font-size: 1.9em;
-            margin: 5px 0; /* 縮短標題邊距 (原為 10px) */
+            margin: 5px 0;
             text-transform: uppercase;
             letter-spacing: 1px;
             font-weight: 700;
@@ -62,13 +62,13 @@
 
         .location-item {
             flex: 1;
-            padding: 5px; /* 縮減內距 */
+            padding: 5px;
         }
 
         .location-item p {
             font-size: 0.9em;
-            margin-bottom: 5px; /* 縮短文字與按鈕的距離 (原為 12px) */
-            min-height: 70px; /* 稍微縮小最小高度以貼合內容 */
+            margin-bottom: 5px;
+            min-height: 70px;
             line-height: 1.4;
         }
 
@@ -96,7 +96,7 @@
             background: #ffffff;
             padding: 30px 0;
             position: relative;
-            margin: 15px 0; /* 縮小膠卷區塊與上方的距離 */
+            margin: 15px 0;
             border-top: 1px solid #fce4ec;
             border-bottom: 1px solid #fce4ec;
         }
@@ -131,7 +131,7 @@
 
         .rsvp-section {
             background-color: #fff9fa;
-            padding: 50px 20px;
+            padding: 50px 15px 30px 15px; /* 縮減底部內距 */
             border-top: 1px solid #fce4ec;
         }
 
@@ -139,16 +139,17 @@
             margin-bottom: 25px;
             line-height: 1.6;
             color: #666;
-            font-size: 1.05em;
+            font-size: 0.92em;
+            white-space: nowrap;
         }
 
         .rsvp-btn {
             background-color: #d18ba3;
             color: #ffffff;
-            padding: 18px 70px;
+            padding: 15px 60px;
             border-radius: 50px;
             font-weight: bold;
-            font-size: 1.5em;
+            font-size: 1.8em;
             text-decoration: none;
             display: inline-block;
             box-shadow: 0 5px 15px rgba(209,139,163,0.3);
@@ -156,12 +157,22 @@
             transition: 0.3s;
         }
 
+        /* 👑 Footer：大幅縮減行距 👑 */
         .footer {
-            padding: 40px 20px;
+            padding: 15px 20px; /* 縮短上下內距 (原為 40px) */
             font-family: 'Italianno', cursive;
             font-size: 2.8em;
             color: #d18ba3;
             font-weight: 400;
+        }
+        .footer p {
+            margin: 0; /* 移除文字標籤預設的上下間距 */
+        }
+
+        @media (max-width: 360px) {
+            .rsvp-text {
+                font-size: 0.85em;
+            }
         }
     </style>
 </head>
