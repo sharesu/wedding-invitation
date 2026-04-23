@@ -7,7 +7,7 @@
     <title>Yenni & Bill Wedding Invitation</title>
     <meta property="og:title" content="Our Wedding Day | Yenni & Bill">
     <meta property="og:description" content="We are getting married! Click to view our invitation and RSVP.">
-    <meta property="og:image" content="BillWilson.jpg">
+    <meta property="og:image" content="BillWilson.jpeg">
     <meta property="og:type" content="website">
 
     <link href="https://fonts.googleapis.com/css2?family=Italianno&family=Crimson+Pro:wght@400;700&family=Lato:wght@300;400&display=swap" rel="stylesheet">
