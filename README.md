@@ -39,14 +39,14 @@
         }
 
         .section {
-            padding: 40px 20px;
+            padding: 20px 20px; /* 這裡已縮短上下間隔 (原為 40px) */
         }
 
         h2 {
             font-family: 'Crimson Pro', serif;
             color: #d18ba3;
             font-size: 1.9em;
-            margin-bottom: 25px;
+            margin: 10px 0; /* 縮小標題上下邊距 (原為 25px) */
             text-transform: uppercase;
             letter-spacing: 1px;
             font-weight: 700;
@@ -67,8 +67,8 @@
 
         .location-item p {
             font-size: 0.9em;
-            margin-bottom: 15px;
-            min-height: 80px; /* 增加高度以容納較長的酒店名稱 */
+            margin-bottom: 12px;
+            min-height: 80px; 
             line-height: 1.5;
         }
 
@@ -91,7 +91,6 @@
             color: #ffffff;
         }
 
-        /* 🎬 膠卷輪播 🎬 */
         .film-container {
             width: 100%;
             background: #ffffff;
