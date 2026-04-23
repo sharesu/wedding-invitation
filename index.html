@@ -179,7 +179,7 @@
 <body>
 
     <div class="main-wrapper">
-        <img src="BillWilson.jpg" alt="Invitation Cover" class="invite-img">
+        <img src="BillWilson.jpeg" alt="Invitation Cover" class="invite-img">
 
         <img src="BillWilson1.jpg" alt="Wedding Details" class="invite-img">
 
